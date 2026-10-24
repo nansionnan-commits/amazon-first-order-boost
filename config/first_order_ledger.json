@@ -1,0 +1,526 @@
+{
+ "_desc": "SKU 首单台账：记录每个 SKU 第一次出单日期，用于识别「新出单品」",
+ "baseline_date": "2026-10-21",
+ "skus": {
+  "TW-7-A-Bagged": {
+   "first_order_date": "2026-10-15",
+   "asin": "B0HJ5KPL11",
+   "store": "liudongdong",
+   "market": "MX",
+   "first_price": 346.99,
+   "baseline": true
+  },
+  "RA-KUS6-RMVS": {
+   "first_order_date": "2026-10-03",
+   "asin": "B0HGFQBX8N",
+   "store": "liudongdong",
+   "market": "CA",
+   "first_price": 27.99,
+   "baseline": true
+  },
+  "4H-G3GP-L03V": {
+   "first_order_date": "2026-10-07",
+   "asin": "B0HGFJN53X",
+   "store": "liudongdong",
+   "market": "US",
+   "first_price": 11.99,
+   "baseline": true
+  },
+  "7W-2CA7-IA34": {
+   "first_order_date": "2026-10-07",
+   "asin": "B0HGFWJ3PH",
+   "store": "liudongdong",
+   "market": "US",
+   "first_price": 11.99,
+   "baseline": true
+  },
+  "U5-V04Y-FR6K": {
+   "first_order_date": "2026-10-07",
+   "asin": "B0HGFMVCKN",
+   "store": "liudongdong",
+   "market": "US",
+   "first_price": 11.99,
+   "baseline": true
+  },
+  "X6-AZBF-UUS5": {
+   "first_order_date": "2026-10-07",
+   "asin": "B0HGFPNHTN",
+   "store": "liudongdong",
+   "market": "US",
+   "first_price": 11.99,
+   "baseline": true
+  },
+  "AL-KO9J-1GYQ": {
+   "first_order_date": "2026-10-02",
+   "asin": "B0HGFQLWFD",
+   "store": "liudongdong",
+   "market": "US",
+   "first_price": 11.99,
+   "baseline": true
+  },
+  "ZHMX-270-Pearl": {
+   "first_order_date": "2026-10-15",
+   "asin": "B0H1VVW3XW",
+   "store": "zhangaodi",
+   "market": "MX",
+   "first_price": 1199.98,
+   "baseline": true
+  },
+  "ZHMX-270-Amber Tortoise": {
+   "first_order_date": "2026-10-14",
+   "asin": "B0H1VRRG7W",
+   "store": "zhangaodi",
+   "market": "MX",
+   "first_price": 599.99,
+   "baseline": true
+  },
+  "FR-GGB6-FPNC": {
+   "first_order_date": "2026-10-14",
+   "asin": "B0H2VWXPTN",
+   "store": "zhangaodi",
+   "market": "MX",
+   "first_price": 2049.99,
+   "baseline": true
+  },
+  "ZHMX-270-Beige Tortoise": {
+   "first_order_date": "2026-10-13",
+   "asin": "B0H1W3L5QF",
+   "store": "zhangaodi",
+   "market": "MX",
+   "first_price": 1167.99,
+   "baseline": true
+  },
+  "ZHMX-060-Caqui-60*90cm-2": {
+   "first_order_date": "2026-10-13",
+   "asin": "B0GCSQNT3Q",
+   "store": "zhangaodi",
+   "market": "MX",
+   "first_price": 399.99,
+   "baseline": true
+  },
+  "ZHMX-135-2 Pcs": {
+   "first_order_date": "2026-10-12",
+   "asin": "B0GR948TL8",
+   "store": "zhangaodi",
+   "market": "MX",
+   "first_price": 219.99,
+   "baseline": true
+  },
+  "ZHMX-311-1-1PC": {
+   "first_order_date": "2026-10-11",
+   "asin": "B0H4L8XM6T",
+   "store": "zhangaodi",
+   "market": "MX",
+   "first_price": 699.99,
+   "baseline": true
+  },
+  "WF-1XT0-Y1FF": {
+   "first_order_date": "2026-10-09",
+   "asin": "B0H2VWXPTL",
+   "store": "zhangaodi",
+   "market": "MX",
+   "first_price": 2049.99,
+   "baseline": true
+  },
+  "ZHMX-098-30 cm": {
+   "first_order_date": "2026-10-08",
+   "asin": "B0GJYSDCY8",
+   "store": "zhangaodi",
+   "market": "MX",
+   "first_price": 1215.99,
+   "baseline": true
+  },
+  "5I-JWE2-D6BV": {
+   "first_order_date": "2026-10-07",
+   "asin": "B0H2VZB6CY",
+   "store": "zhangaodi",
+   "market": "MX",
+   "first_price": 2049.99,
+   "baseline": true
+  },
+  "ZHMX-121-6 Pcs": {
+   "first_order_date": "2026-10-06",
+   "asin": "B0GQBR44MW",
+   "store": "zhangaodi",
+   "market": "MX",
+   "first_price": 389.99,
+   "baseline": true
+  },
+  "ZHCA-255-26cm (10.24in)": {
+   "first_order_date": "2026-10-14",
+   "asin": "B0GZN5N8J3",
+   "store": "zhangaodi",
+   "market": "CA",
+   "first_price": 69.99,
+   "baseline": true
+  },
+  "ZHCA-424-Cat": {
+   "first_order_date": "2026-10-14",
+   "asin": "B0HHXD1WFF",
+   "store": "zhangaodi",
+   "market": "CA",
+   "first_price": 37.98,
+   "baseline": true
+  },
+  "ZHCA-397-N1-3": {
+   "first_order_date": "2026-10-14",
+   "asin": "B0HDXS88W3",
+   "store": "zhangaodi",
+   "market": "CA",
+   "first_price": 7.98,
+   "baseline": true
+  },
+  "CW1-ca-Red": {
+   "first_order_date": "2026-10-12",
+   "asin": "B0HJQFLMCT",
+   "store": "zhangaodi",
+   "market": "CA",
+   "first_price": 23.99,
+   "baseline": true
+  },
+  "CW2-CA-Purple-Small": {
+   "first_order_date": "2026-10-06",
+   "asin": "B0HJQWQY7V",
+   "store": "zhangaodi",
+   "market": "CA",
+   "first_price": 13.98,
+   "baseline": true
+  },
+  "PZ-CTRD-F3KF": {
+   "first_order_date": "2026-10-04",
+   "asin": "B0HKSFPS4P",
+   "store": "zhangaodi",
+   "market": "CA",
+   "first_price": 13.99,
+   "baseline": true
+  },
+  "CW2-CA-Purple-Large": {
+   "first_order_date": "2026-10-03",
+   "asin": "B0HJR1THZX",
+   "store": "zhangaodi",
+   "market": "CA",
+   "first_price": 25.98,
+   "baseline": true
+  },
+  "CW2-CA-Brown-Medium": {
+   "first_order_date": "2026-10-02",
+   "asin": "B0HJQWS8GP",
+   "store": "zhangaodi",
+   "market": "CA",
+   "first_price": 18.98,
+   "baseline": true
+  },
+  "CW2-CA-Brown-Small": {
+   "first_order_date": "2026-10-02",
+   "asin": "B0HJR59S4B",
+   "store": "zhangaodi",
+   "market": "CA",
+   "first_price": 13.98,
+   "baseline": true
+  },
+  "ZHUS-378-N1-1": {
+   "first_order_date": "2026-10-15",
+   "asin": "B0HC3JX4L6",
+   "store": "zhangaodi",
+   "market": "US",
+   "first_price": 29.99,
+   "baseline": true
+  },
+  "ZHUS-372-N1-10": {
+   "first_order_date": "2026-10-13",
+   "asin": "B0HBP8HVC9",
+   "store": "zhangaodi",
+   "market": "US",
+   "first_price": 16.99,
+   "baseline": true
+  },
+  "ZHUS-288-60cm-Black": {
+   "first_order_date": "2026-10-13",
+   "asin": "B0H33YC96B",
+   "store": "zhangaodi",
+   "market": "US",
+   "first_price": 16.99,
+   "baseline": true
+  },
+  "ZHUS-387-N1-3": {
+   "first_order_date": "2026-10-11",
+   "asin": "B0HCT43R4Z",
+   "store": "zhangaodi",
+   "market": "US",
+   "first_price": 38.99,
+   "baseline": true
+  },
+  "CW2-us-Grey-Large": {
+   "first_order_date": "2026-10-10",
+   "asin": "B0HJQWG7G4",
+   "store": "zhangaodi",
+   "market": "US",
+   "first_price": 21.99,
+   "baseline": true
+  },
+  "ZHUS-288-50cm-Black": {
+   "first_order_date": "2026-10-09",
+   "asin": "B0H33NL3D9",
+   "store": "zhangaodi",
+   "market": "US",
+   "first_price": 13.99,
+   "baseline": true
+  },
+  "TW-8-Airplane box packaging": {
+   "first_order_date": "2026-10-08",
+   "asin": "B0HJ5QDKPY",
+   "store": "zhangaodi",
+   "market": "US",
+   "first_price": 36.99,
+   "baseline": true
+  },
+  "ZHUS-404-A*1": {
+   "first_order_date": "2026-10-07",
+   "asin": "B0HFS4B5R2",
+   "store": "zhangaodi",
+   "market": "US",
+   "first_price": 13.99,
+   "baseline": true
+  },
+  "ZHUS-POT-4l-us": {
+   "first_order_date": "2026-10-07",
+   "asin": "B0H7Q7GYQ4",
+   "store": "zhangaodi",
+   "market": "US",
+   "first_price": 27.99,
+   "baseline": true
+  },
+  "ZHUS-242-Highland cow": {
+   "first_order_date": "2026-10-07",
+   "asin": "B0HHXDS9Z7",
+   "store": "zhangaodi",
+   "market": "US",
+   "first_price": 26.98,
+   "baseline": true
+  },
+  "ZHUS-091-Black": {
+   "first_order_date": "2026-10-06",
+   "asin": "B0GJ4QN3NV",
+   "store": "zhangaodi",
+   "market": "US",
+   "first_price": 35.98,
+   "baseline": true
+  },
+  "ZHUS-121-3 Pcs": {
+   "first_order_date": "2026-10-06",
+   "asin": "B0GQBS32S5",
+   "store": "zhangaodi",
+   "market": "US",
+   "first_price": 12.99,
+   "baseline": true
+  },
+  "TW-1-1pc": {
+   "first_order_date": "2026-10-05",
+   "asin": "B0HJ2L4XTT",
+   "store": "zhangaodi",
+   "market": "US",
+   "first_price": 163.96,
+   "baseline": true
+  },
+  "ZHUS-289-Gray-A‑With Strap": {
+   "first_order_date": "2026-10-05",
+   "asin": "B0HCY2J619",
+   "store": "zhangaodi",
+   "market": "US",
+   "first_price": 33.99,
+   "baseline": true
+  },
+  "ZHUS-383-N1-1": {
+   "first_order_date": "2026-10-05",
+   "asin": "B0HCC3QML4",
+   "store": "zhangaodi",
+   "market": "US",
+   "first_price": 18.99,
+   "baseline": true
+  },
+  "ZHUS-365-N1-2": {
+   "first_order_date": "2026-10-05",
+   "asin": "B0H9HD8BXY",
+   "store": "zhangaodi",
+   "market": "US",
+   "first_price": 19.99,
+   "baseline": true
+  },
+  "ZHUS-289-Blue-A‑With Strap": {
+   "first_order_date": "2026-10-05",
+   "asin": "B0HCXTDHF5",
+   "store": "zhangaodi",
+   "market": "US",
+   "first_price": 33.99,
+   "baseline": true
+  },
+  "ZHUS-289-Black-B‑With Corner Loops": {
+   "first_order_date": "2026-10-04",
+   "asin": "B0HCXX21XL",
+   "store": "zhangaodi",
+   "market": "US",
+   "first_price": 33.99,
+   "baseline": true
+  },
+  "ZHUS-279-C": {
+   "first_order_date": "2026-10-03",
+   "asin": "B0H2F53JWR",
+   "store": "zhangaodi",
+   "market": "US",
+   "first_price": 9.99,
+   "baseline": true
+  },
+  "ZHUS-378-N1-2": {
+   "first_order_date": "2026-10-02",
+   "asin": "B0HC3LTR7W",
+   "store": "zhangaodi",
+   "market": "US",
+   "first_price": 29.99,
+   "baseline": true
+  },
+  "ZHUS-288-60cm-White": {
+   "first_order_date": "2026-10-02",
+   "asin": "B0H33KGHB4",
+   "store": "zhangaodi",
+   "market": "US",
+   "first_price": 16.99,
+   "baseline": true
+  },
+  "ZHUS-374-N1-4": {
+   "first_order_date": "2026-10-16",
+   "asin": "B0HBPVWC6G",
+   "store": "zhangaodi",
+   "market": "US",
+   "first_price": 15.99,
+   "baseline": true
+  },
+  "ZHUS-126-1 Pc-Large": {
+   "first_order_date": "2026-10-17",
+   "asin": "B0GQMBRT22",
+   "store": "zhangaodi",
+   "market": "US",
+   "first_price": 39.99,
+   "baseline": true
+  },
+  "AN-6FI3-UUCO": {
+   "first_order_date": "2026-10-18",
+   "asin": "B0H2VN67VL",
+   "store": "zhangaodi",
+   "market": "MX",
+   "first_price": 2049.99,
+   "baseline": true
+  },
+  "ZHMX-098-22 cm": {
+   "first_order_date": "2026-10-18",
+   "asin": "B0GJYD6J78",
+   "store": "zhangaodi",
+   "market": "MX",
+   "first_price": 799.99,
+   "baseline": true
+  },
+  "ZHMX-058-Black*2": {
+   "first_order_date": "2026-10-18",
+   "asin": "B0GC6S92PY",
+   "store": "zhangaodi",
+   "market": "MX",
+   "first_price": 360.99,
+   "baseline": true
+  },
+  "ZHCA-424-Highland cow": {
+   "first_order_date": "2026-10-17",
+   "asin": "B0HHWYYKM4",
+   "store": "zhangaodi",
+   "market": "CA",
+   "first_price": 37.98,
+   "baseline": true
+  },
+  "ZHUS-368-N1-2": {
+   "first_order_date": "2026-10-18",
+   "asin": "B0HB3JTY48",
+   "store": "zhangaodi",
+   "market": "US",
+   "first_price": 34.99,
+   "baseline": true
+  },
+  "ZHCA-397-N1-4": {
+   "first_order_date": "2026-10-19",
+   "asin": "B0HDYDDLTL",
+   "store": "zhangaodi",
+   "market": "CA",
+   "first_price": 17.97,
+   "baseline": true
+  },
+  "TW-7-A-Airplane box packaging": {
+   "first_order_date": "2026-10-21",
+   "asin": "B0HJ5T7STQ",
+   "store": "liudongdong",
+   "market": "MX",
+   "first_price": 461.99,
+   "baseline": true
+  },
+  "KK-3BZL-VKG2": {
+   "first_order_date": "2026-10-21",
+   "asin": "B0H2W1TL4K",
+   "store": "zhangaodi",
+   "market": "MX",
+   "first_price": 2049.99,
+   "baseline": true
+  },
+  "IL-FRMH-T4JV": {
+   "first_order_date": "2026-10-21",
+   "asin": "B0H2VYJBJC",
+   "store": "zhangaodi",
+   "market": "MX",
+   "first_price": 2449.99,
+   "baseline": true
+  },
+  "ZHMX-060-Blanco-60*90cm-2": {
+   "first_order_date": "2026-10-21",
+   "asin": "B0GCS5LPJ5",
+   "store": "zhangaodi",
+   "market": "MX",
+   "first_price": 799.98,
+   "baseline": true
+  },
+  "ZHUS-397-N1-4": {
+   "first_order_date": "2026-10-21",
+   "asin": "B0HDY2WDD8",
+   "store": "zhangaodi",
+   "market": "US",
+   "first_price": 51.98,
+   "baseline": true
+  },
+  "VH-FRXY-F6DY": {
+   "first_order_date": "2026-10-21",
+   "asin": "B0HM6MH6NR",
+   "store": "zhangaodi",
+   "market": "US",
+   "first_price": 21.99,
+   "baseline": true
+  },
+  "22-AQZU-Z3QX": {
+   "first_order_date": "2026-10-21",
+   "asin": "B0HM63C9SN",
+   "store": "zhangaodi",
+   "market": "US",
+   "first_price": 21.99,
+   "baseline": true
+  },
+  "PD-23Z6-VJZH": {
+   "first_order_date": "2026-10-22",
+   "asin": "B0HG16XTCQ",
+   "store": "liudongdong",
+   "market": "CA",
+   "first_price": 49.99,
+   "baseline": true
+  },
+  "ZHCA-081-1pc": {
+   "first_order_date": "2026-10-22",
+   "asin": "B0GGQLVXJG",
+   "store": "zhangaodi",
+   "market": "CA",
+   "first_price": 35.97,
+   "baseline": true
+  }
+ }
+}
